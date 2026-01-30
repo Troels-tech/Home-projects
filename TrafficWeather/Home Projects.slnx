@@ -1,6 +1,3 @@
 <Solution>
-  <Folder Name="/Docs/" />
-  <Folder Name="/Docs/Draw.io/" />
-  <Folder Name="/Docs/PNG/" />
   <Project Path="TrafficWeather.csproj" />
 </Solution>
